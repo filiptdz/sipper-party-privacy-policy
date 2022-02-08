@@ -46,6 +46,19 @@ I want to inform users of this Service that these third parties have access to y
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+**Data Deletion**
+
+You have the right to request the deletion of Your Personal Data, which can be done by entering in contact with us through sipperparty@gmail.com subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. We may deny Your deletion request if retaining the information is necessary for us or Our Service Providers to:
+* Complete the transaction for which We collected the personal information, provide a good or service that You requested, take actions reasonably anticipated within the context of our ongoing business relationship with You, or otherwise perform our contract with You.
+* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+* Debug products to identify and repair errors that impair existing intended functionality.
+* Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+* Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if You previously provided informed consent.
+* Enable solely internal uses that are reasonably aligned with consumer expectations based on Your relationship with Us.
+* Comply with a legal obligation.
+* Make other internal and lawful uses of that information that are compatible with the context in which You provided it
+
 **Links to Other Sites**
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
